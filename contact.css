@@ -1,0 +1,11 @@
+.space{
+    position: relative;
+    left: 8%;
+}
+
+.nophone{
+    position: relative;
+    left: 20%;
+    height: 250px;
+    width: 250px;
+}

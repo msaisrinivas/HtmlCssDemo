@@ -1,0 +1,20 @@
+table{
+    width: 90%;
+    overflow: hidden;
+
+    position: relative;
+    left: 10px;
+}
+
+.rowcol{
+    position: relative;
+    left: 10%;
+
+    height: 674px;
+    width: 500px;
+}
+
+.col{
+    height: 396px;
+    width: 694px;
+}
